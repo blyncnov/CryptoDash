@@ -20,6 +20,8 @@ class MyApp extends StatelessWidget {
   }
 }
 
+// SplashScreen
+
 class MyHomePage extends StatelessWidget {
   const MyHomePage({super.key});
   @override
